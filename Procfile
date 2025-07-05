@@ -1,1 +1,1 @@
-worker: python3 smsbomber.py
+worker: python bot.py
