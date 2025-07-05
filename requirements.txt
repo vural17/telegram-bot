@@ -1,5 +1,2 @@
+pyTelegramBotAPI
 requests
-colorama
-pytz
-apscheduler
-python-telegram-bot
