@@ -2,7 +2,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import requests
 
-bot = telebot.TeleBot("import telebot
+bot = telebot.TeleBot("import telebot")
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import requests
 import os
